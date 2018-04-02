@@ -1,0 +1,18 @@
+body, html {
+    height: 100%;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url('https://file.namu.moe/file/8bc9e381797334eb33da66e3ba501be1f40c34d455c532e21a1407a6cbcf31e75365d9576a4e2d440531e9155d6e2e6023b9a69e7dc3621a3ed0d377c7c3442f6bdb89a7abea7debf506dec2ee3cc6db17cebe5378b1eca5109b86111db55526');
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
